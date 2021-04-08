@@ -1,0 +1,25 @@
+{
+  "name": "lab07-skku-stat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhmxnjxx/2021_OSS_Lab07.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhmxnjxx/2021_OSS_Lab07/issues"
+  },
+  "homepage": "https://github.com/xhmxnjxx/2021_OSS_Lab07#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
